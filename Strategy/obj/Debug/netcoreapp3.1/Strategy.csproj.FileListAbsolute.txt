@@ -1,0 +1,12 @@
+C:\Users\nianjun-huang\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.1\Strategy.exe
+C:\Users\nianjun-huang\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.1\Strategy.deps.json
+C:\Users\nianjun-huang\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.json
+C:\Users\nianjun-huang\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+C:\Users\nianjun-huang\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.1\Strategy.dll
+C:\Users\nianjun-huang\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.1\Strategy.pdb
+C:\Users\nianjun-huang\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+C:\Users\nianjun-huang\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+C:\Users\nianjun-huang\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\nianjun-huang\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\Strategy.dll
+C:\Users\nianjun-huang\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\Strategy.pdb
+C:\Users\nianjun-huang\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\Strategy.genruntimeconfig.cache

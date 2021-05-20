@@ -1,0 +1,13 @@
+C:\Users\nianjun-huang\source\repos\ModelObserver\bin\Debug\netcoreapp3.1\ModelObserver.exe
+C:\Users\nianjun-huang\source\repos\ModelObserver\bin\Debug\netcoreapp3.1\ModelObserver.deps.json
+C:\Users\nianjun-huang\source\repos\ModelObserver\bin\Debug\netcoreapp3.1\ModelObserver.runtimeconfig.json
+C:\Users\nianjun-huang\source\repos\ModelObserver\bin\Debug\netcoreapp3.1\ModelObserver.runtimeconfig.dev.json
+C:\Users\nianjun-huang\source\repos\ModelObserver\bin\Debug\netcoreapp3.1\ModelObserver.dll
+C:\Users\nianjun-huang\source\repos\ModelObserver\bin\Debug\netcoreapp3.1\ModelObserver.pdb
+C:\Users\nianjun-huang\source\repos\ModelObserver\obj\Debug\netcoreapp3.1\ModelObserver.csprojAssemblyReference.cache
+C:\Users\nianjun-huang\source\repos\ModelObserver\obj\Debug\netcoreapp3.1\ModelObserver.AssemblyInfoInputs.cache
+C:\Users\nianjun-huang\source\repos\ModelObserver\obj\Debug\netcoreapp3.1\ModelObserver.AssemblyInfo.cs
+C:\Users\nianjun-huang\source\repos\ModelObserver\obj\Debug\netcoreapp3.1\ModelObserver.csproj.CoreCompileInputs.cache
+C:\Users\nianjun-huang\source\repos\ModelObserver\obj\Debug\netcoreapp3.1\ModelObserver.dll
+C:\Users\nianjun-huang\source\repos\ModelObserver\obj\Debug\netcoreapp3.1\ModelObserver.pdb
+C:\Users\nianjun-huang\source\repos\ModelObserver\obj\Debug\netcoreapp3.1\ModelObserver.genruntimeconfig.cache

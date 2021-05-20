@@ -1,0 +1,13 @@
+C:\Users\nianjun-huang\source\repos\SingBuzz\bin\Debug\netcoreapp3.1\SingBuzz.exe
+C:\Users\nianjun-huang\source\repos\SingBuzz\bin\Debug\netcoreapp3.1\SingBuzz.deps.json
+C:\Users\nianjun-huang\source\repos\SingBuzz\bin\Debug\netcoreapp3.1\SingBuzz.runtimeconfig.json
+C:\Users\nianjun-huang\source\repos\SingBuzz\bin\Debug\netcoreapp3.1\SingBuzz.runtimeconfig.dev.json
+C:\Users\nianjun-huang\source\repos\SingBuzz\bin\Debug\netcoreapp3.1\SingBuzz.dll
+C:\Users\nianjun-huang\source\repos\SingBuzz\bin\Debug\netcoreapp3.1\SingBuzz.pdb
+C:\Users\nianjun-huang\source\repos\SingBuzz\obj\Debug\netcoreapp3.1\SingBuzz.csprojAssemblyReference.cache
+C:\Users\nianjun-huang\source\repos\SingBuzz\obj\Debug\netcoreapp3.1\SingBuzz.AssemblyInfoInputs.cache
+C:\Users\nianjun-huang\source\repos\SingBuzz\obj\Debug\netcoreapp3.1\SingBuzz.AssemblyInfo.cs
+C:\Users\nianjun-huang\source\repos\SingBuzz\obj\Debug\netcoreapp3.1\SingBuzz.csproj.CoreCompileInputs.cache
+C:\Users\nianjun-huang\source\repos\SingBuzz\obj\Debug\netcoreapp3.1\SingBuzz.dll
+C:\Users\nianjun-huang\source\repos\SingBuzz\obj\Debug\netcoreapp3.1\SingBuzz.pdb
+C:\Users\nianjun-huang\source\repos\SingBuzz\obj\Debug\netcoreapp3.1\SingBuzz.genruntimeconfig.cache
