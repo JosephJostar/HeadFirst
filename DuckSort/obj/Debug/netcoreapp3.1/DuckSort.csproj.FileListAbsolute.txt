@@ -1,0 +1,13 @@
+D:\HeadFirst\DuckSort\bin\Debug\netcoreapp3.1\DuckSort.exe
+D:\HeadFirst\DuckSort\bin\Debug\netcoreapp3.1\DuckSort.deps.json
+D:\HeadFirst\DuckSort\bin\Debug\netcoreapp3.1\DuckSort.runtimeconfig.json
+D:\HeadFirst\DuckSort\bin\Debug\netcoreapp3.1\DuckSort.runtimeconfig.dev.json
+D:\HeadFirst\DuckSort\bin\Debug\netcoreapp3.1\DuckSort.dll
+D:\HeadFirst\DuckSort\bin\Debug\netcoreapp3.1\DuckSort.pdb
+D:\HeadFirst\DuckSort\obj\Debug\netcoreapp3.1\DuckSort.csproj.AssemblyReference.cache
+D:\HeadFirst\DuckSort\obj\Debug\netcoreapp3.1\DuckSort.AssemblyInfoInputs.cache
+D:\HeadFirst\DuckSort\obj\Debug\netcoreapp3.1\DuckSort.AssemblyInfo.cs
+D:\HeadFirst\DuckSort\obj\Debug\netcoreapp3.1\DuckSort.csproj.CoreCompileInputs.cache
+D:\HeadFirst\DuckSort\obj\Debug\netcoreapp3.1\DuckSort.dll
+D:\HeadFirst\DuckSort\obj\Debug\netcoreapp3.1\DuckSort.pdb
+D:\HeadFirst\DuckSort\obj\Debug\netcoreapp3.1\DuckSort.genruntimeconfig.cache

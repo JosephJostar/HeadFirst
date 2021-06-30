@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nianjun-huang\\source\\repos\\ModelObserver\\ModelObserver.csproj": {}
+    "D:\\HeadFirst\\ModelObserver\\ModelObserver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nianjun-huang\\source\\repos\\ModelObserver\\ModelObserver.csproj": {
+    "D:\\HeadFirst\\ModelObserver\\ModelObserver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nianjun-huang\\source\\repos\\ModelObserver\\ModelObserver.csproj",
+        "projectUniqueName": "D:\\HeadFirst\\ModelObserver\\ModelObserver.csproj",
         "projectName": "ModelObserver",
-        "projectPath": "C:\\Users\\nianjun-huang\\source\\repos\\ModelObserver\\ModelObserver.csproj",
+        "projectPath": "D:\\HeadFirst\\ModelObserver\\ModelObserver.csproj",
         "packagesPath": "C:\\Users\\nianjun-huang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nianjun-huang\\source\\repos\\ModelObserver\\obj\\",
+        "outputPath": "D:\\HeadFirst\\ModelObserver\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -27,7 +27,6 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

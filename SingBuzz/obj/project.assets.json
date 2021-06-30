@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nianjun-huang\\source\\repos\\SingBuzz\\SingBuzz.csproj",
+      "projectUniqueName": "D:\\HeadFirst\\SingBuzz\\SingBuzz.csproj",
       "projectName": "SingBuzz",
-      "projectPath": "C:\\Users\\nianjun-huang\\source\\repos\\SingBuzz\\SingBuzz.csproj",
+      "projectPath": "D:\\HeadFirst\\SingBuzz\\SingBuzz.csproj",
       "packagesPath": "C:\\Users\\nianjun-huang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nianjun-huang\\source\\repos\\SingBuzz\\obj\\",
+      "outputPath": "D:\\HeadFirst\\SingBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,7 +35,6 @@
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

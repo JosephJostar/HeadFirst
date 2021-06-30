@@ -1,0 +1,13 @@
+D:\HeadFirst\TemplatePattern\bin\Debug\netcoreapp3.1\TemplatePattern.exe
+D:\HeadFirst\TemplatePattern\bin\Debug\netcoreapp3.1\TemplatePattern.deps.json
+D:\HeadFirst\TemplatePattern\bin\Debug\netcoreapp3.1\TemplatePattern.runtimeconfig.json
+D:\HeadFirst\TemplatePattern\bin\Debug\netcoreapp3.1\TemplatePattern.runtimeconfig.dev.json
+D:\HeadFirst\TemplatePattern\bin\Debug\netcoreapp3.1\TemplatePattern.dll
+D:\HeadFirst\TemplatePattern\bin\Debug\netcoreapp3.1\TemplatePattern.pdb
+D:\HeadFirst\TemplatePattern\obj\Debug\netcoreapp3.1\TemplatePattern.AssemblyInfoInputs.cache
+D:\HeadFirst\TemplatePattern\obj\Debug\netcoreapp3.1\TemplatePattern.AssemblyInfo.cs
+D:\HeadFirst\TemplatePattern\obj\Debug\netcoreapp3.1\TemplatePattern.csproj.CoreCompileInputs.cache
+D:\HeadFirst\TemplatePattern\obj\Debug\netcoreapp3.1\TemplatePattern.dll
+D:\HeadFirst\TemplatePattern\obj\Debug\netcoreapp3.1\TemplatePattern.pdb
+D:\HeadFirst\TemplatePattern\obj\Debug\netcoreapp3.1\TemplatePattern.genruntimeconfig.cache
+D:\HeadFirst\TemplatePattern\obj\Debug\netcoreapp3.1\TemplatePattern.csproj.AssemblyReference.cache

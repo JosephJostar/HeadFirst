@@ -1,0 +1,13 @@
+C:\Users\nianjun-huang\source\repos\IteratorModel\bin\Debug\netcoreapp3.1\IteratorModel.exe
+C:\Users\nianjun-huang\source\repos\IteratorModel\bin\Debug\netcoreapp3.1\IteratorModel.deps.json
+C:\Users\nianjun-huang\source\repos\IteratorModel\bin\Debug\netcoreapp3.1\IteratorModel.runtimeconfig.json
+C:\Users\nianjun-huang\source\repos\IteratorModel\bin\Debug\netcoreapp3.1\IteratorModel.runtimeconfig.dev.json
+C:\Users\nianjun-huang\source\repos\IteratorModel\bin\Debug\netcoreapp3.1\IteratorModel.dll
+C:\Users\nianjun-huang\source\repos\IteratorModel\bin\Debug\netcoreapp3.1\IteratorModel.pdb
+C:\Users\nianjun-huang\source\repos\IteratorModel\obj\Debug\netcoreapp3.1\IteratorModel.csproj.AssemblyReference.cache
+C:\Users\nianjun-huang\source\repos\IteratorModel\obj\Debug\netcoreapp3.1\IteratorModel.AssemblyInfoInputs.cache
+C:\Users\nianjun-huang\source\repos\IteratorModel\obj\Debug\netcoreapp3.1\IteratorModel.AssemblyInfo.cs
+C:\Users\nianjun-huang\source\repos\IteratorModel\obj\Debug\netcoreapp3.1\IteratorModel.csproj.CoreCompileInputs.cache
+C:\Users\nianjun-huang\source\repos\IteratorModel\obj\Debug\netcoreapp3.1\IteratorModel.dll
+C:\Users\nianjun-huang\source\repos\IteratorModel\obj\Debug\netcoreapp3.1\IteratorModel.pdb
+C:\Users\nianjun-huang\source\repos\IteratorModel\obj\Debug\netcoreapp3.1\IteratorModel.genruntimeconfig.cache
